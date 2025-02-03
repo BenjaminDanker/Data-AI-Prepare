@@ -1,0 +1,22 @@
+# Ignore all CSV, JSON, and TXT files containing scraped data
+webpage_csv/
+webpage_json/
+*.csv
+*.json
+*.txt
+
+# Ignore logs
+*.log
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+venv/
+.env
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
