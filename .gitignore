@@ -4,6 +4,7 @@ webpage_json/
 *.csv
 *.json
 *.txt
+*.pdf
 
 # Ignore logs
 *.log
